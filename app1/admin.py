@@ -15,7 +15,8 @@ form_dynamic_data = {
         'args': {'min_value': 1},
     },
     'my_dog_name': {
-        'type': 'text', 'args': {'max_length': 20}
+        'type': 'text',
+        'args': {'max_length': 20}
     },
 }
 
