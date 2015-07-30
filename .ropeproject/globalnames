@@ -1,10 +1,0 @@
-€}q(Udymanic.wsgi]qUapplicationqaUmanage]Udynamic]Upog.wsgi]qhaU
-app1.admin]q(UDynamicFieldsqUPartnerAdminqeUapp1.migrations]Upog]Ushutil]q(Ucopyfileq	Uignore_patternsq
-UcopytreeqUget_archive_formatsqUcopyfileobjqUregister_archive_formatqUcopymodeqUmake_archiveqUmoveqUunregister_archive_formatqUrmtreeqUErrorqUcopyqU	ExecErrorqUcopy2qUSpecialFileErrorqUcopystatqUWindowsErrorqeUapp1.models]qUPartnerqaUdynamic.settings]q(U	TEMPLATESqUUSE_L10NqULANGUAGE_CODEq UUSE_TZq!UUSE_I18Nq"U	DATABASESq#U	TIME_ZONEq$U
-STATIC_URLq%UROOT_URLCONFq&UWSGI_APPLICATIONq'UMIDDLEWARE_CLASSESq(UDEBUGq)UALLOWED_HOSTSq*U
-SECRET_KEYq+UBASE_DIRq,UINSTALLED_APPSq-eUpog.settings]q.(U	TEMPLATESq/UUSE_L10Nq0ULANGUAGE_CODEq1UUSE_TZq2UUSE_I18Nq3U	DATABASESq4U	TIME_ZONEq5U
-STATIC_URLq6UROOT_URLCONFq7UWSGI_APPLICATIONq8UMIDDLEWARE_CLASSESq9UDEBUGq:UALLOWED_HOSTSq;U
-SECRET_KEYq<UBASE_DIRq=UINSTALLED_APPSq>eUdymanic.urls]q?Uurlpatternsq@aUdymanic.settings]qA(h/h0h1h2h3h4h5h6h7h8h9h:h;h<h=h>eU
-app1.views]Upog.urls]qBh@aUdymanic]Uapp1]Uapp1.migrations.0001_initial]qCU	MigrationqDaUdynamic.urls]qEUurlpatternsqFaUos]qG(Upopen4qHUexecleqIUpopen3qJUSEEK_CURqKUspawnlpqLUexeclpqMUenvironqNUspawnvpqOUspawnlqPUexecvpqQUmakedirsqRUlinesepqSUP_WAITqTUspawnvqUUspawnveqVUexecvpeqWUunsetenvqXUSEEK_SETqYUgetenvqZUpopen2q[Uwalkq\Uspawnleq]Uexeclq^Unameq_USEEK_ENDq`UspawnlpeqaU	P_NOWAITOqbUP_NOWAITqcU
-removedirsqdUrenamesqeUspawnvpeqfUexeclpeqgeU
-app1.tests]Udynamic.wsgi]qhUapplicationqiau.
